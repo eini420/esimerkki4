@@ -1,1 +1,3 @@
 eka rivi kirjoitettu käyttäjä kakkosena
+eka rivi kirjoitettu, ekahaarassa tehty muutos käyttäjä 1
+Kirjoittan tämän ekahaaraan käyttäjä 1
